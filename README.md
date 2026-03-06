@@ -4,8 +4,8 @@ For the effective output i am learning "DSA",and trying to get core through API'
 I am indeed,to collabrate with DSA software engineer ,which help both of us to make the project a sucessful one.
 For the project we are lookilng for software developer,who can lead to make this project successful.
 If there is any query regarding project you can contact our team by mailing them
-email:-mazzzama89@gmail.com"
-<!--
+email:-mazzzama89@gmail.com"u
+<!--u
 **Mazz-n0x/Mazz-n0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
